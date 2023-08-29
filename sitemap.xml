@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wydpp.github.io/wiki/sentinel/sentinel%E9%99%90%E6%B5%81%E5%8E%9F%E7%90%86/</loc>
+    
+    <lastmod>2023-08-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wydpp.github.io/tags/index.html</loc>
     
     <lastmod>2023-08-29</lastmod>
@@ -29,9 +38,18 @@
   </url>
   
   <url>
-    <loc>https://wydpp.github.io/2023/08/29/hello-world/</loc>
+    <loc>https://wydpp.github.io/wiki/hello-world/</loc>
     
     <lastmod>2023-08-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wydpp.github.io/sentinel/Sentinel%E9%99%90%E6%B5%81%E5%8E%9F%E7%90%86.html</loc>
+    
+    <lastmod>2023-08-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -47,5 +65,12 @@
 
   
 
+  
+  <url>
+    <loc>https://wydpp.github.io/categories/sentinel/</loc>
+    <lastmod>2023-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
