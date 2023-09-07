@@ -96,7 +96,7 @@
             <div id="search-form-wrap">
 
     <form class="search-form">
-        <input type="text" class="ins-search-input search-form-input" placeholder="Rechercher">
+        <input type="text" class="ins-search-input search-form-input" placeholder="Cari">
         <button type="submit" class="search-form-submit"></button>
     </form>
     <div class="ins-search">
@@ -115,10 +115,10 @@
 (function (window) {
     var INSIGHT_CONFIG = {
         TRANSLATION: {
-            POSTS: 'Articles',
+            POSTS: 'pos',
             PAGES: 'Pages',
-            CATEGORIES: 'Catégories',
-            TAGS: 'Tags',
+            CATEGORIES: 'kategori',
+            TAGS: 'tag',
             UNTITLED: '(Untitled)',
         },
         ROOT_URL: '/',
@@ -151,7 +151,7 @@
                 <td>
                     
     <div class="search-form">
-        <input type="text" class="ins-search-input search-form-input" placeholder="Rechercher">
+        <input type="text" class="ins-search-input search-form-input" placeholder="Cari">
     </div>
 
                 </td>
@@ -168,7 +168,7 @@
         
     <div class="widget-wrap" id="categories">
         <h3 class="widget-title">
-            <span>Catégories</span>
+            <span>kategori</span>
             &nbsp;
             <a id="allExpand" href="#">
                 <i class="fa fa-angle-double-down fa-2x"></i>
@@ -178,6 +178,15 @@
         
         
          <ul class="unstyled" id="tree"> 
+                    <li class="directory">
+                        <a href="#" data-role="directory">
+                            <i class="fa fa-folder"></i>
+                            &nbsp;
+                            05-spring
+                        </a>
+                         <ul class="unstyled" id="tree">  <li class="file"><a href="/wiki/05-spring/test/"></a></li>  </ul> 
+                    </li> 
+                    
                     <li class="directory open">
                         <a href="#" data-role="directory">
                             <i class="fa fa-folder-open"></i>
@@ -349,7 +358,7 @@
 <nav id="article-nav">
     
         <a href="/wiki/100-%E6%9D%82%E8%B0%88/%E4%BD%BF%E7%94%A8github%E5%92%8Chexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/" id="article-nav-newer" class="article-nav-link-wrap">
-            <strong class="article-nav-caption">Plus récent</strong>
+            <strong class="article-nav-caption">Lebih baru</strong>
             <div class="article-nav-title">
                 
                     使用github和hexo搭建个人博客
@@ -359,7 +368,7 @@
     
     
         <a href="/wiki/08-sentinel/sentinel%E9%99%90%E6%B5%81%E5%8E%9F%E7%90%86/" id="article-nav-older" class="article-nav-link-wrap">
-            <strong class="article-nav-caption">Plus ancien</strong>
+            <strong class="article-nav-caption">Lebih Tua</strong>
             <div class="article-nav-title">sentinel限流原理</div>
         </a>
     
