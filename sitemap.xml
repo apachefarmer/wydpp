@@ -11,33 +11,6 @@
   </url>
   
   <url>
-    <loc>https://wydpp.github.io/wiki/05-spring/test/</loc>
-    
-    <lastmod>2023-09-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wydpp.github.io/wiki/08-sentinel/sentinel%E9%99%90%E6%B5%81%E5%8E%9F%E7%90%86/</loc>
-    
-    <lastmod>2023-09-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wydpp.github.io/wiki/08-sentinel/sentinel%E6%9E%B6%E6%9E%84/</loc>
-    
-    <lastmod>2023-08-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wydpp.github.io/tags/index.html</loc>
     
     <lastmod>2023-08-29</lastmod>
@@ -47,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://wydpp.github.io/categories/index.html</loc>
+    <loc>https://wydpp.github.io/about/index.html</loc>
     
     <lastmod>2023-08-29</lastmod>
     
@@ -56,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://wydpp.github.io/about/index.html</loc>
+    <loc>https://wydpp.github.io/categories/index.html</loc>
     
     <lastmod>2023-08-29</lastmod>
     
@@ -81,20 +54,6 @@
   </url>
   
 
-  
-  <url>
-    <loc>https://wydpp.github.io/categories/08-sentinel/</loc>
-    <lastmod>2023-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wydpp.github.io/categories/05-spring/</loc>
-    <lastmod>2023-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://wydpp.github.io/categories/100-%E6%9D%82%E8%B0%88/</loc>
